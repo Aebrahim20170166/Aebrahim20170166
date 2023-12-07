@@ -15,10 +15,6 @@
 
 
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with PHP,MySQL,Laravel ,Html and CSS or anything related to web development.
-
-
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/alaa-ebrahim-7b6969196/" target="_blank">
